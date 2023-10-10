@@ -1,7 +1,7 @@
-The Data Team is responsible for supporting the NS in responding timely to humanitarian needs in-country by owning their data products and services for accurate, reliable and targeted decision-making. 
+# 510 - Data Service Catalogue
+This is the data catalogue of 510, an initiative of the Netherlands Red Cross, hosted and maintained by the Data Team of the Netherlands Red Cross. 
 
-# 510 - Data Catalogue
-This is the data catalogue of 510, an initiative of the Netherlands Red Cross
+The Data Team is responsible for supporting the NS in responding timely to humanitarian needs in-country by owning their data products and services for accurate, reliable and targeted decision-making. 
 
 ## What is the Data Service Catalogue 
 Data Service Catalogue is a centralised repository for documenting and organising our data-related services (incl. datasets, databases, APIs, data pipelines, reports, and analytics tools).​
