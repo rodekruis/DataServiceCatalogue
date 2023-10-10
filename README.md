@@ -25,5 +25,6 @@ External​
 * IM / technical departments within NS ​
 * Collaborative partners; to walk through the one-pager​ on pre-requisits of deploying and sustaining a data service. 
 * Giving an idea of what the NS can expect from a deliverable; expectation management.
+ 
 Internal – Data Team ​
 
