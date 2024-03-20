@@ -1,7 +1,7 @@
 # Overview of Community Engagement and Accountability (CEA) services
 See existing [legacy docs](https://github.com/rodekruis/CEA-IM-Services/wiki)
 
-1. 7. CEA programmatic support (CEA assessments, strategies & guidelines, defining metrics of success, training and SOP’s)
+1. CEA programmatic support (CEA assessments, strategies & guidelines, defining metrics of success, training and SOP’s)
 Helpful information app (implementation, training, advice)
 2. Social Media Listening (implementation, training, advice)
 3. Mass messaging with Telerivet (implementation, training, advice)
