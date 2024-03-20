@@ -35,7 +35,7 @@ To effectively perform damage assessment, ADA relies on high-quality satellite i
 Often used sources for acquiring high quality satellite images are:
 - [Maxar](https://www.maxar.com/open-data)
 - [Airbus](https://www.airbus.com/en/space/earth-observation/satellite-imagery)
-- ...
+- [Planet](https://www.planet.com/products/planet-imagery/)
   
 ### Data Responsibility/Policy
 Before handover, ADA results always undergo a manual validation process, involving triangulation and manual verification, to ensure accuracy. 
