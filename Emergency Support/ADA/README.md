@@ -24,15 +24,15 @@ Technical requirements may vary depending on deployment environments and specifi
 No formal Service Level Agreement (SLA) is required for deploying ADA
 
 ## Data Quality
-### General Description of needed satellite images -> include links to some providers
-To effectively perform damage assessment, ADA relies on high-quality satellite images meeting the following criteria:
+
+To effectively perform damage assessment, ADA requires satellite images meeting the following criteria:
 
 - Optical (RGB), or multi-spectral with optical
 - High-resolution (<0.6 m/pixel)
 - Cloud-free
-- Building damage is visible.
+- With visible building damage
 
-Often used sources for acquiring high quality satellite images are:
+Common sources of high-resolution optical satellite images are:
 - [Maxar](https://www.maxar.com/open-data)
 - [Airbus](https://www.airbus.com/en/space/earth-observation/satellite-imagery)
 - [Planet](https://www.planet.com/products/planet-imagery/)
@@ -47,9 +47,8 @@ rather than conducting detailed assessments of individual structures. *Any risks
 
 ## More Info
 
-### Technical Docs
-For detailed technical documentation and instructions on deploying the ADA, users can refer to the project's GitHub repository. This documentation provides insights into the model architecture, deployment procedures, and best practices for optimization.
-For technical documentation and how to deploy ADA yourself, please refer to: [ADA](https://github.com/rodekruis/ada-collection)
+### Technical Documentation
+For detailed technical documentation and instructions on deploying the ADA, users can refer to its GitHub repository: [rodekruis/ada-collection](https://github.com/rodekruis/ada-collection).
 
 ### Contact Info
 For a demo, please each out to bselvan@redcross.nl
